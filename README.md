@@ -51,4 +51,5 @@ Collection of ten Python projects demonstrating problem-solving, logic building,
 
 - [LinkedIn](www.linkedin.com/in/bushrasiraj)  
 - [Email](bushrasiraj586@gmail.com)
+- [Phone no](+92152891585)
 
