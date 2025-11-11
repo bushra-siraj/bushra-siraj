@@ -1,16 +1,54 @@
-## Hi there 👋
+# Bushra Siraj — Data Analyst & Data Science Practitioner
 
-<!--
-**bushra-siraj/bushra-siraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Transforming complex datasets into impactful insights. Skilled in Python, Excel, and data science techniques to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills & Tools
+
+**Data Analysis & Visualization:**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Excel (Pivot Tables, Charts, Conditional Formatting)  
+- Power BI (self-learned proficiency)  
+
+**Data Science & Machine Learning:**  
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Preprocessing  
+- Basic Machine Learning (Regression, Classification)  
+- Python OOP and problem-solving projects  
+
+**Other Tools:**  
+- Git & GitHub for version control  
+- Google Colab / Jupyter Notebook  
+
+---
+
+## 📂 Projects
+
+### 1️⃣ [Spacecraft Anomalies Analysis](https://github.com/BushraSiraj/spacecraft-anomalies-analysis)  
+Exploratory data analysis of spacecraft operational data to identify patterns and trends in system anomalies using Python and visualizations.
+
+### 2️⃣ [Foodpanda Market Analysis](https://github.com/BushraSiraj/foodpanda-market-analysis)  
+Market data analysis using Python (Google Colab) to uncover ordering patterns, category performance, and sales insights with bar and box plots.
+
+### 3️⃣ [Superstore Sales Analysis](https://github.com/BushraSiraj/superstore-sales-analysis)  
+Retail sales analysis project in Excel, leveraging pivot tables, charts, and formulas to explore sales, profit, and regional trends.
+
+### 4️⃣ [Data Science Mini Projects](https://github.com/BushraSiraj/data-science-mini-projects)  
+Collection of ten Python projects demonstrating problem-solving, logic building, and foundational programming concepts.
+
+---
+
+## 🎓 Certifications
+
+- Oracle Data Science Certification  
+- Cisco Python Essentials  
+- SMIT Data Science & AI (Ongoing)  
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](www.linkedin.com/in/bushrasiraj)  
+- [Email](bushrasiraj586@gmail.com)
+
