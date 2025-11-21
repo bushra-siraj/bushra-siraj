@@ -25,16 +25,16 @@
 
 ## 📂 Projects
 
-### 1️⃣ [Spacecraft Anomalies Analysis](https://github.com/BushraSiraj/spacecraft-anomalies-analysis)  
+### 1️⃣ [Spacecraft Anomalies Analysis](https://github.com/bushra-siraj/spacecraft-anomalies-analysis)  
 Exploratory data analysis of spacecraft operational data to identify patterns and trends in system anomalies using Python and visualizations.
 
-### 2️⃣ [Foodpanda Market Analysis](https://github.com/BushraSiraj/foodpanda-market-analysis)  
+### 2️⃣ [Foodpanda Market Analysis](https://github.com/bushra-siraj/foodpanda-market-analysis)  
 Market data analysis using Python (Google Colab) to uncover ordering patterns, category performance, and sales insights with bar and box plots.
 
 ### 3️⃣ [Superstore Sales Analysis](https://github.com/BushraSiraj/superstore-sales-analysis)  
 Retail sales analysis project in Excel, leveraging pivot tables, charts, and formulas to explore sales, profit, and regional trends.
 
-### 4️⃣ [Data Science Mini Projects](https://github.com/BushraSiraj/data-science-mini-projects)  
+### 4️⃣ [Data Science Mini Projects](https://github.com/bushra-siraj/my-beginner-python-portfolio)  
 Collection of ten Python projects demonstrating problem-solving, logic building, and foundational programming concepts.
 
 ---
