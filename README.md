@@ -44,7 +44,7 @@ Collection of ten Python projects demonstrating problem-solving, logic building,
 - Oracle Data Science Certification  
 - Cisco Python Essentials  
 - SMIT Data Science & AI (Ongoing)  
-
+- OpenCV Computer Vision and Image Processing (Ongoing)
 ---
 
 ## 📫 Contact
