@@ -31,7 +31,7 @@ Exploratory data analysis of spacecraft operational data to identify patterns an
 ### 2️⃣ [Foodpanda Market Analysis](https://github.com/bushra-siraj/foodpanda-market-analysis)  
 Market data analysis using Python (Google Colab) to uncover ordering patterns, category performance, and sales insights with bar and box plots.
 
-### 3️⃣ [Superstore Sales Analysis](https://github.com/BushraSiraj/superstore-sales-analysis)  
+### 3️⃣ [Superstore Sales Analysis](https://github.com/bushra-siraj/superstore-sales-analysis)  
 Retail sales analysis project in Excel, leveraging pivot tables, charts, and formulas to explore sales, profit, and regional trends.
 
 ### 4️⃣ [Data Science Mini Projects](https://github.com/bushra-siraj/my-beginner-python-portfolio)  
