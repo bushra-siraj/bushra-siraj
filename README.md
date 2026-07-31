@@ -1,4 +1,4 @@
-# Bushra Siraj — Data Analyst & Data Science Practitioner
+# Bushra Siraj — Data Analyst & Data Science 
 
 📊 Transforming complex datasets into impactful insights. Skilled in Python, Excel, and data science techniques to solve real-world problems.
 
